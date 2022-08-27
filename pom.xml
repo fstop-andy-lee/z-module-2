@@ -6,6 +6,7 @@
       <groupId>tw.com.firstbank</groupId>
       <artifactId>fcbframework</artifactId>
       <version>${revision}</version>
+      <relativePath/>
   </parent>  
   
   <artifactId>z-module-2</artifactId>
